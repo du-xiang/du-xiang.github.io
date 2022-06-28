@@ -12,7 +12,7 @@
 
 #### 生活分享
 
-
+[demo](./Technology/2021/add-views-function.md)
 
 
 
