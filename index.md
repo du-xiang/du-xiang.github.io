@@ -1,6 +1,6 @@
 #### 技术分享
 
-<font color="red">211030</font>	(./Technology/2021/add-views-function.md)
+<font color="red">211030</font>	[为网站添加显示浏览量功能](./Technology/2021/add-views-function.md)
 
 
 
