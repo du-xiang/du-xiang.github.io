@@ -8,6 +8,9 @@
 
 
 
+#### 感谢
+感谢[Parker Moore](https://github.com/parkr)提供的主题[jekyll-theme-leap-day](https://github.com/pages-themes/leap-day)
+
 
 
 最后，如果在浏览我的博客时有不同的观点或建议，我也十分欢迎你提出来。
