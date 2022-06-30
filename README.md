@@ -9,7 +9,7 @@
 
 
 #### 感谢
-感谢[Parker Moore](https://github.com/parkr)提供的主题[jekyll-theme-leap-day](https://github.com/pages-themes/leap-day)
+感谢[Parker Moore](https://github.com/parkr)提供的主题[jekyll-theme-leap-day](https://github.com/pages-themes/leap-day)<br /><br />
 
 
 
