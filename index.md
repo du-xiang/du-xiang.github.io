@@ -12,4 +12,4 @@
 
 
 
-**[笔记](./Others/笔记/阅读笔记/index.md)** / **DEMO**
+**[笔记](./Others/笔记/阅读笔记/index.md)** / [DEMO](./Others/笔记/阅读笔记/index.md)
