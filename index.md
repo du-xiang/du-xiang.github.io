@@ -7,6 +7,7 @@
 
 
 #### 生活分享
+20210214 &emsp; [羊皮纸制作记录](./blogs/2021/life-0214-record_of_parchment_making.md)
 
 
 
