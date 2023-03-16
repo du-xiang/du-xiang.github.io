@@ -3,7 +3,7 @@
 
 
 #### 经验分享
-
+20210914 &emsp; [身份证号会包含哪些信息](./blogs/2021/exp-0914-what_information_the_ID_number_will_contain.md)
 
 
 #### 生活分享
