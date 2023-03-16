@@ -3,6 +3,8 @@
 
 
 #### 经验分享
+20210611 &emsp; [不要对自己说谎](./blogs/2021/exp-0611-don't_lie_to_yourself.md)
+
 20210914 &emsp; [身份证号会包含哪些信息](./blogs/2021/exp-0914-what_information_the_ID_number_will_contain.md)
 
 
