@@ -172,7 +172,7 @@
 
 &emsp; **2.** [如何制作羊皮纸](http://www.youhishi.com/manufacture.html)
 
-​	**3.** [(一)：溶液配制](https://www.bilibili.com/video/BV1wx411y7zS)
+&emsp; **3.** [(一)：溶液配制](https://www.bilibili.com/video/BV1wx411y7zS)
 
 &emsp; [(二)：褪毛](https://www.bilibili.com/video/BV17x411y76N)
         
