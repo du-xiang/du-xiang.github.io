@@ -1,5 +1,5 @@
 #### 技术分享
-<font color='#ff000000'>211030</font>  [为网站添加显示浏览量功能](./Technology/2021/add-views-function.md)
+211030 &emsp; [迷宫生成及寻路](./blogs/2021/tech-0115-maze_generation_and_pathfinding.md)
 
 
 #### 经验分享
