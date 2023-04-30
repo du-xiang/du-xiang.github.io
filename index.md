@@ -11,7 +11,7 @@
 #### 生活分享
 20210214 &emsp; [羊皮纸制作记录](./blogs/2021/life-0214-record_of_parchment_making.md)
 
-20230430 &emsp; [校招经历记录](./blogs/2023/life-0430-shool_admission_records.md)
+20230430 &emsp; [校招经历记录](./blogs/2023/life-0430-school_admission_records.md)
 
 
 
