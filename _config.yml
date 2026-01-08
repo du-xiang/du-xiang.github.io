@@ -1,7 +1,22 @@
+# 基础配置
+title: "du-xiang.github.io"
+description: ""
+# 核心：适配远程主题的路径变量
+url: "https://du-xiang.github.io"
+baseurl: ""
+
+# 远程主题配置
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+  - jekyll-feed
 
 kramdown:
   input: GFM
   auto_ids_stripping: true
+
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
