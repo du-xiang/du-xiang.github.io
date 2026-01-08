@@ -1,6 +1,7 @@
 # 基础配置
-title: "du-xiang.github.io"
-description: ""
+title: du-xiang.github.io
+description: 
+
 # 核心：适配远程主题的路径变量
 url: "https://du-xiang.github.io"
 baseurl: ""
