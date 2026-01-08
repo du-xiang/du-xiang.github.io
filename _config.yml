@@ -14,9 +14,3 @@ plugins:
 kramdown:
   input: GFM
   auto_ids_stripping: true
-
-defaults:
-  - scope:
-      path: "_posts"
-    values:
-      layout: "post"
