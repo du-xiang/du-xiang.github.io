@@ -11,6 +11,8 @@ remote_theme: pages-themes/leap-day
 plugins:
   - jekyll-remote-theme
 
+relative_links: true
+
 kramdown:
   input: GFM
   auto_ids_stripping: true
