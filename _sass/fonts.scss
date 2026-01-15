@@ -1,4 +1,12 @@
 
+@font-face{
+    font-family: 'Source Han Serif';
+    src: url('/assets/fonts/SourceHanSerifSC-SemiBold.woff2') format('woff2'),
+         url('/assets/fonts/SourceHanSerifSC-SemiBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
 @font-face {
     font-family: 'Quattrocento Sans';
     src: url('../fonts/quattrocentosans-bold-webfont.eot');
