@@ -1,4 +1,11 @@
 # du-xiang.github.io
 
 ### 生活分享
-210214 - [羊皮纸制作记录](./_posts/2021-02-14-record_of_parchment_making.md)
+<ul>
+{% for post in site.categories["生活"] limit:5 %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+  </li>
+{% endfor %}
+</ul>
